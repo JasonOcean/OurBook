@@ -1,4 +1,4 @@
 # Summary
 * [ALEO Solo](README.md)
-  - [Ubuntu](ubuntu/a16pool.md)
+  - [Ubuntu](ubuntu/k8pool.md)
   - HiveOS
