@@ -1,4 +1,5 @@
-# Summary
+# Table of contents
+
 * [ALEO Solo](README.md)
-  - [Ubuntu](ubuntu/a16pool.md)
-  - HiveOS
+  * [Ubuntu](ubuntu/a16pool.md)
+  * [HiveOS](readme/hiveos.md)
