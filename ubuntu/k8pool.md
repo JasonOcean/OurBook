@@ -1,6 +1,6 @@
 # K8POOL
 
-Solo Prover Download Link： [https://www.baidu.com](https://www.baidu.com)
+Solo Prover Download Link： [https://download.k8pool.com/project/aleo/k8pool/k8pool.tar.gz](https://download.k8pool.com/project/aleo/k8pool/k8pool.tar.gz)
 
 Steps:
 1. Download aleo-solo-prover-K8POOL and license file in the same directory.

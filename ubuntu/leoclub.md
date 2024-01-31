@@ -1,7 +1,5 @@
 # LEOCLUB.VIP
 
-Solo Prover Download Link： [https://www.baidu.com](https://www.baidu.com)
-
 Steps:
 1. Download aleo-solo-prover-LEOCLUB and license file in the same directory.
 2. Start aleo-solo-prover-LEOCLUB.so
