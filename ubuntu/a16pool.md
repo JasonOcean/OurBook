@@ -1,6 +1,6 @@
 # A16POOL
 
-Solo Prover Download Link： https://www.baidu.com
+Solo Prover Download Link： [https://www.baidu.com](https://www.baidu.com)
 
 Steps:
 1. Download aleo-solo-prover-a16pool and license file in the same directory.
