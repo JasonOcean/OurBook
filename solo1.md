@@ -1,1 +1,0 @@
-This is solo 1 a book powered by [GitBook](https://github.com/GitbookIO/gitbook). 

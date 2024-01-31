@@ -1,7 +1,7 @@
 # Summary
 * [ALEO Solo](README.md)
   - Ubuntu
-    - [a16pool](solo1.md)
-    - [k8pool](solo2.md)
-    - [leoclub.vip](solo3.md)
+    - [a16pool](a16pool.md)
+    - [k8pool](k8pool.md)
+    - [leoclub.vip](leoclub.md)
   - HiveOS
