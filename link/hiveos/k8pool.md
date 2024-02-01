@@ -8,7 +8,7 @@
 | Address |  <YOUR_ALEO_ADDRESS>  |
 | Name |  aleo-solo-prover-K8POOL  |
 
-![HiveOS](/img/hiveos/k8pool.wallet.png "")
+![](/img/hiveos/k8pool.wallet.png "")
 
 ## Flight Sheet Configuration
 
@@ -20,7 +20,7 @@
 | Miner |  Custom  |
 | Name |  aleo-solo-prover-K8POOL  |
 
-![HiveOS](/img/hiveos/k8pool.fight.png "")
+![](/img/hiveos/k8pool.fight.png "")
 
 ## Custom Configuration
 
@@ -32,4 +32,4 @@
 | Wallet and worker template |  %WAL%.%WORKER_NAME%  |
 | Pool URL |  wss://solo.k8pool.com:3666  |
 
-![HiveOS](/img/hiveos/k8pool.custom.png "")
+![](/img/hiveos/k8pool.custom.png "")
