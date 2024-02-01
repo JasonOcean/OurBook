@@ -33,3 +33,4 @@
 | Pool URL |  wss://solo.k8pool.com:3666  |
 
 ![](/img/hiveos/k8pool.custom.png "")
+
